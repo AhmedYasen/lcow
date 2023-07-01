@@ -3,3 +3,4 @@
 a try to recreate linux commands to be used on windows from Powershell or Command prompt
 
 # Contributions
+1- open an issue
