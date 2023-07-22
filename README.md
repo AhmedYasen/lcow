@@ -35,3 +35,22 @@ $ mkdir    # Create a new directory
 $ grep     # Search for text in files
 $ cat      # Display the contents of a file
 $ and more!
+```
+
+Please note that while the commands are designed to mimic Linux behavior, there might be some slight differences due to the underlying Windows architecture.
+
+## Contributions and Support
+Contributions to WinuxCLI are always welcome! If you'd like to contribute bug fixes, new features, or improvements, please submit a pull request on our [GitHub repository](https://github.com/ahmedyasen/winuxcli).
+
+For support, bug reports, or feature requests, feel free to open an issue on the GitHub repository.
+
+## License
+WinuxCLI is released under the [MIT License](https://opensource.org/licenses/MIT).
+
+## Disclaimer
+WinuxCLI is an independent project and is not affiliated with or endorsed by Microsoft Corporation or any Linux/Unix distribution. The project aims to provide a useful tool for Windows users who are looking for a more Linux-like command line experience.
+
+## Acknowledgments
+We would like to express our gratitude to the open-source community and the developers of the tools and libraries that made this project possible.
+
+© AhmedYasen 2023. All rights reserved.
