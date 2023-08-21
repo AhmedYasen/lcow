@@ -1,5 +1,5 @@
 import argparse
-from src.rm import RmCmd
+from rm import RmCmd
 
 def main():
     parser = argparse.ArgumentParser(description="Delete files/directories with options.")
