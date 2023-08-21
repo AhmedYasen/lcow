@@ -16,7 +16,7 @@ WinuxCLI is a project that brings the power and familiarity of Linux-like comman
 
 To install WinuxCLI on your Windows system, follow these simple steps:
 
-1. Download the latest release from the [WinuxCLI GitHub repository](https://github.com/your-username/winuxcli/releases).
+1. Download the latest release from the [WinuxCLI GitHub repository](https://github.com/AhmedYasen/winux-cli/releases).
 
 2. Extract the downloaded archive to a directory of your choice.
 
